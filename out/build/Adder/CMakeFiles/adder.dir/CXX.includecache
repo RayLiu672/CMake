@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/VisualStudioCode/NewCode/Adder/adder.cpp
+adder.h
+/home/ray/VisualStudioCode/NewCode/Adder/adder.h
+
+/home/ray/VisualStudioCode/NewCode/Adder/adder.h
+

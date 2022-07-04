@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/TestCode.dir/main.cpp.o  -o TestCode   -L/home/ray/VisualStudioCode/NewCode/Adder  -Wl,-rpath,/home/ray/VisualStudioCode/NewCode/Adder Adder/libadder.a 

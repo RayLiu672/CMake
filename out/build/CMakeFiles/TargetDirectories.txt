@@ -1,0 +1,6 @@
+/home/ray/VisualStudioCode/NewCode/out/build/CMakeFiles/rebuild_cache.dir
+/home/ray/VisualStudioCode/NewCode/out/build/CMakeFiles/edit_cache.dir
+/home/ray/VisualStudioCode/NewCode/out/build/CMakeFiles/TestCode.dir
+/home/ray/VisualStudioCode/NewCode/out/build/Adder/CMakeFiles/rebuild_cache.dir
+/home/ray/VisualStudioCode/NewCode/out/build/Adder/CMakeFiles/edit_cache.dir
+/home/ray/VisualStudioCode/NewCode/out/build/Adder/CMakeFiles/adder.dir
